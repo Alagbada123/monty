@@ -5,7 +5,7 @@
 */
 void free_stack(stack_t *head)
 {
-	stack_t *aux;
+	stack_t *P;
 
 	P = head;
 	while (head)
